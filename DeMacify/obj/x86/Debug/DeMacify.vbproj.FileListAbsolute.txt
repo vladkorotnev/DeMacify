@@ -1,0 +1,9 @@
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\DeMacify\DeMacify\bin\Debug\DeMacify.exe
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\DeMacify\DeMacify\bin\Debug\DeMacify.pdb
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\DeMacify\DeMacify\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\DeMacify\DeMacify\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\DeMacify\DeMacify\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\DeMacify\DeMacify\obj\x86\Debug\DeMacify.exe
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\DeMacify\DeMacify\obj\x86\Debug\DeMacify.pdb
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\DeMacify\DeMacify\obj\x86\Debug\DeMacify.Form1.resources
+C:\Documents and Settings\Vladislav\my documents\visual studio 2010\Projects\DeMacify\DeMacify\obj\x86\Debug\DeMacify.Resources.resources
